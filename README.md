@@ -2,6 +2,10 @@
 
 Repo start-state:
 
+1. README.md
+2. .gitignore
+3. gallery.html, gallery.css, gallery.js
+
 ##281 Project 2 Learning Outcomes
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol.
